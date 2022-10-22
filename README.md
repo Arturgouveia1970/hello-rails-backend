@@ -3,7 +3,7 @@
 > Created to learn how React and Rails work separately.  This is an API backend part of the project.
 
 ## Frontend
-The frontend part of this project: [front-end](https://github.com/Arturgouveia1970/hello-react-front-end)
+The frontend part of this project: [front-end](https://github.com/Arturgouveia1970/hello-react-frontend)
 
 ## Built With
 
