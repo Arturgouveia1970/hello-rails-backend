@@ -1,0 +1,2 @@
+api: bundle exec rails server -p 3000
+yarn --cwd hello-react-front-end start
