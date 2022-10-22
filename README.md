@@ -32,11 +32,11 @@ IDE(VSCode etc.), WSL(for Windows OS), for linters RuboCop
 
 ## Author
 
-👤 **Huseyin Biyik**
+👤 **Artur Gouveia**
 
-- GitHub: [@huseyinbiyik](https://github.com/huseyinbiyik)
-- Twitter: [@huseyin__biyik](https://twitter.com/huseyin__biyik)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/huseyin-b%C4%B1y%C4%B1k/)
+[GitHub](https://github.com/Arturgouveia1970)
+[Twitter](https://twitter.com/@arturgouveia10)
+[LinkedIn](https://www.linkedin.com/in/artur-gouveia-323868197/)
 
 ## 🤝 Contributing
 
